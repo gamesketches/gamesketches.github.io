@@ -1,0 +1,28 @@
+body {
+  background-color: #325581;
+}
+
+h1 {
+  font-size: 30px;
+  color: #74AB9E;
+}
+
+p {
+  color: #7A90AD;
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#sideBar {
+  position: absolute;
+  width: 15%;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
