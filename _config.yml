@@ -1,0 +1,12 @@
+# Site settings
+title: Sam's Skunk Pit
+email: sam.von.ehren@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  personal website for Sam Von Ehren
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gamesketches.githubpages.io" # the base hostname & protocol for your site
+twitter_username: samvonehren
+github_username:  gamesketches
+
+# Build settings
+markdown: kramdown
