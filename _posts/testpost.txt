@@ -1,6 +1,0 @@
----
-layout: blogpost
-title: rofl test
----
-
-test page let's rock
